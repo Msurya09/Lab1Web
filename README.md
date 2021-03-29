@@ -61,7 +61,37 @@ Tampilan pada VScode
 Tampilan pada Microsoft Edge
 ![17](https://user-images.githubusercontent.com/81518784/112798198-c7696780-9096-11eb-854b-0db9372eb704.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tugas Pertanyaan
 
+Jawab Pertanyaan Berikut
+1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+2.	Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3.	Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4.	Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5.	Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self,_top,_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+Jawaban
+
+1.	Saat terjadi kesalahan penulisan tag tidak akan mengalami perubahan dan pesan error akan muncul jika tag tersebut salah namun saat uji coba saya hanya tidak ada perubahan tanpa pesan error.
+
+2.	tag <br/> digunakan hanya untuk ganti baris. Sedangkan tag <p> benar-benar digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman.
+
+3.	 Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut.  Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar.
+
+4.	Untuk terlihat agar propesional gambar menggunakan atribut Width dan Height karena ukuran pada Web disesuaikan sesuai pemakaian atau halaman yang akan dibuat agar terlihat bagus.
+
+5.	atribut target menunjukkan nama atau kata kunci yang menunjukkan di mana untuk membuka URL tindakan yang ditampilkan setelah formulir dikirimkan dalam menanggapi lokasi diterima. atribut target mendefinisikan konteks browser (misalnya, tab, jendela, atau frame inline) nama atau kata kunci.
+
+ _self
+target default untuk semua anchor tag. Jika tidak menetapkan atribut target atau menggunakan target ini, tautan akan terbuka di jendela atau bingkai yang sama dengan tautan tersebut.
+ _parent
+Iframe tertanam di dalam halaman web. bisa menyematkan iframe di halaman yang ada di dalam iframe lain di halaman web lain. Ketika menetapkan atribut target ke _parent tautan akan terbuka di halaman web yang menahan iframe.
+
+ _top
+Dalam sebagian besar situasi dengan iframe, target ini akan membuka tautan dengan cara yang sama seperti yang dilakukan _parent target _parent . Tetapi jika ada IFRAME di dalam IFRAME, target _top membuka tautan di jendela level tertinggi dalam seri, menghapus semua iframe.
+ _blank
+Ini adalah target yang paling umum digunakan - ini membuka tautan di jendela yang sama sekali baru, mirip dengan sembulan.
 
 
 
